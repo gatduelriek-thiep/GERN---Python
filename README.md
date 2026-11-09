@@ -18,7 +18,7 @@ Since Python is a general-purpose programming language, it can be applied to som
     <li>Use to develop AI, ML, and Natural language processing</li>
     <li>Data analysis and visualization etc</li>
 </ul>
-# Career opportunities that relate to Python
+## Career opportunities that relate to Python
 <ul>
     <li>Python Developers or Python Developer instructor</li>
     <li>Data analyst</li>
@@ -37,7 +37,7 @@ Since Python is a general-purpose programming language, it can be applied to som
 Python is the language
 of the future —
 "simple, powerful, and everywhere.”
-# Introduction to Jupyter Notebook
+## Introduction to Jupyter Notebook
 Jupyter notebook is a notebook that allows developers to write code. It is used mostly by data scientists and data analysts to analyse and visualize data
 To learn more about Jupyter Notebook, please click the following links. One is for a video overview, while another is for a note summary
 <a href = "https://www.coursera.org/learn/python-for-applied-data-science-ai/lecture/hIluj/getting-started-with-jupyter" title = "Introduction to Jupyter Notebook">Introduction to Jupyter Notebook video</a><br>
